@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mudit Agrawal
-- 👀 I’m interested in App and Web Development
+- 👀 I’m interested in Blockchain, AI and ML. Also interested in App and Web Development.
 - 🌱 I’m currently learning App Develpment
 - 📫 Reach me at muditag007@gmail.com
 
