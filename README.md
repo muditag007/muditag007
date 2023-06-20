@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mudit Agrawal
 - 👀 I’m interested in Blockchain, AI and ML. Also interested in Web Development.
-- 🌱 I’m Full Stack App Developer.
+- 🌱 Currently learning NodeJS and ML.
+- 🎓 I’m Full Stack App Developer.
 - 📫 Reach me at muditag007@gmail.com.
 
 <!---
